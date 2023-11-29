@@ -6,33 +6,35 @@ This repo is dedicated to showcase my designs in web industry. You will find att
 
 ##  OneClick Away =) 
 
-`Founders Retrievers`
+**`Founders Retrievers`**
   
-- Founders Retrievers is a website founded to help people retrieve their lost belongings. The simple layout of the website help users of variety range of ages to publish a lost or found belonging, with their contact information provided, people can connect to give/ retrieve these belongings.
-  <br/> 
+* Founders Retrievers is a website founded to help people retrieve their lost belongings. The simple layout of the website help users of variety range of ages to publish a lost or found belonging, with their contact information provided, people can connect to give/ retrieve these belongings.
+  <br /> 
  [Founders Retrievers](https://www.figma.com/file/dmEdccUWNsdUszUY0XAdZd/Founders-Retrievers?type=design&node-id=0%3A1&mode=design&t=LHFLjur4drsmzWvR-1)
 
   @ nov 2023
-  <br/>
+  <br />
 
   
-`Jordan Prime`
-- Jordan Prime facilitates users to share their personal blogs about their experiences in Jordan, creating a dynamic space for diverse narratives that highlight the cultural richness and historical significance of the country.
+**`Jordan Prime`**
+* Jordan Prime facilitates users to share their personal blogs about their experiences in Jordan, creating a dynamic space for diverse narratives that highlight the cultural richness and historical significance of the country.
+<br />
 [Jordan Prime](https://www.figma.com/file/EgahtNXDZQzH3zSu4elM8W/Jordan-Prime?type=design&node-id=0%3A1&mode=design&t=qhLVCe4eSHk1dW32-1)
 
   @ oct 2023
-  <br/>
+  <br />
   
 
-`My First Portfolio`
-- This is the first porfolio I ever created and it is entirely built using HTML and CSS.
-   <br/>
+**`My First Portfolio`**
+* This is the first porfolio I ever created and it is entirely built using HTML and CSS.
+   <br />
    [Sondos AbuYounis](https://www.figma.com/file/0xaWMhNipx8pQS1dBK2lhw/portFolio?type=design&node-id=1%3A102&mode=design&t=iR7tbkrjHvbCZ6fj-1)
-  <br/>
-  <br/>
-  Here is a live link to my portfolio : [Sondos AbuYounis](https://sondosabuyounis.github.io/myFirstPortFolio/)
+  <br />
+  <br />
+* Here is a live link to my portfolio : [Sondos AbuYounis](https://sondosabuyounis.github.io/myFirstPortFolio/)
 
   @ sep 2023
-<br/>
+<br />
+<br />
 
  ` see ya later alligator :') `
