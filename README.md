@@ -18,7 +18,6 @@ This repo is dedicated to showcase my designs in web industry. You will find att
   
 `Jordan Prime`
 - Jordan Prime facilitates users to share their personal blogs about their experiences in Jordan, creating a dynamic space for diverse narratives that highlight the cultural richness and historical significance of the country.
-<br/>
 [Jordan Prime](https://www.figma.com/file/EgahtNXDZQzH3zSu4elM8W/Jordan-Prime?type=design&node-id=0%3A1&mode=design&t=qhLVCe4eSHk1dW32-1)
 
   @ oct 2023
