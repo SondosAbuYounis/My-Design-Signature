@@ -14,6 +14,8 @@ This repo is dedicated to showcase my designs in web industry. You will find att
 <br>
   @ nov 2023
   <br>
+
+  
 - **`Jordan Prime`** 
   Jordan Prime facilitates users to share their personal blogs about their experiences in Jordan, creating a dynamic space for diverse narratives that highlight the cultural richness and historical significance of the country.
 <br>
@@ -21,6 +23,7 @@ This repo is dedicated to showcase my designs in web industry. You will find att
 <br>
   @ oct 2023
   <br>
+  
 - **`My First Portfolio`**
   This is i=the first porfolio I ever created and it is entirely built using HTML and CSS.
   Here is a live link to my portfolio : [Sondos AbuYounis](https://sondosabuyounis.github.io/myFirstPortFolio/)
@@ -29,4 +32,5 @@ This repo is dedicated to showcase my designs in web industry. You will find att
 <br>
   @ sep 2023
 <br>
+
  ` see ya later alligator :') `
