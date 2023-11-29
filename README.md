@@ -42,7 +42,7 @@ This repo is dedicated to showcase my designs in web industry. You will find att
   @ sep 2023
 <br />
 
-**`Folks`**`Hall`
+`__Folks__Hall`
 * FolksHall is a fundraising events website. It has been designed to bring people together in a fun yet effective gatherings.
    <br />
    [**Folks**Hall](https://www.figma.com/file/8AKYCpG0KReHLUXcLV6Npu/EventTips-Inc.-Presentation?type=design&node-id=0%3A1&mode=design&t=vdlri67FsjsFLs1w-1)
