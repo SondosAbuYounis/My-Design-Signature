@@ -8,7 +8,7 @@ This repo is dedicated to showcase my designs in web industry. You will find att
 
 - **`Founders Retrievers`**
   
-  Founders Retrievers is a website founded to help people retrieve their lost belongings. The simple layout of the website help users of variety range of ages to publish a lost or found belonging, with their contact information provided, people can connect to give/ retrieve these belongings.
+Founders Retrievers is a website founded to help people retrieve their lost belongings. The simple layout of the website help users of variety range of ages to publish a lost or found belonging, with their contact information provided, people can connect to give/ retrieve these belongings.
   <br/> 
  [Founders Retrievers](https://www.figma.com/file/dmEdccUWNsdUszUY0XAdZd/Founders-Retrievers?type=design&node-id=0%3A1&mode=design&t=LHFLjur4drsmzWvR-1)
 <br/>
@@ -17,9 +17,9 @@ This repo is dedicated to showcase my designs in web industry. You will find att
 
   
 - **`Jordan Prime`** 
-  Jordan Prime facilitates users to share their personal blogs about their experiences in Jordan, creating a dynamic space for diverse narratives that highlight the cultural richness and historical significance of the country.
-<br>
-[Jordan Prime](https://www.figma.com/file/EgahtNXDZQzH3zSu4elM8W/Jordan-Prime?type=design&node-id=0%3A1&mode=design&t=9J1mtrBnuSEs4bMS-1)
+Jordan Prime facilitates users to share their personal blogs about their experiences in Jordan, creating a dynamic space for diverse narratives that highlight the cultural richness and historical significance of the country.
+<br/>
+[Jordan Prime](https://www.figma.com/file/EgahtNXDZQzH3zSu4elM8W/Jordan-Prime?type=design&node-id=0%3A1&mode=design&t=qhLVCe4eSHk1dW32-1)
 <br/>
   @ oct 2023
   <br/>
