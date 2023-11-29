@@ -14,6 +14,7 @@ This repo is dedicated to showcase my designs in web industry. You will find att
 
   @ nov 2023
   <br />
+  <br />
 
   
 **`Jordan Prime`**
@@ -22,12 +23,14 @@ This repo is dedicated to showcase my designs in web industry. You will find att
 
   @ oct 2023
   <br />
+  <br />
   
 **`Book Cast`**
 *  Book Cast is designed and developed by me and my team to provide an interactive platform for book enthusiasts to discover, discuss, and share their favorite books.
 <br />[Book Cast](https://www.figma.com/file/wtU6ZpBuHgqdXqydVIts8c/Book-Reading-Project?type=design&node-id=30%3A7&mode=design&t=xBaZZN6Vrtauy8kz-1)
 
   @ oct 2023
+  <br />
   <br />
   
 
@@ -36,13 +39,13 @@ This repo is dedicated to showcase my designs in web industry. You will find att
    <br />
    [Sondos AbuYounis](https://www.figma.com/file/0xaWMhNipx8pQS1dBK2lhw/portFolio?type=design&node-id=1%3A102&mode=design&t=iR7tbkrjHvbCZ6fj-1)
   <br />
-  <br />
 * Here is a live link to my portfolio : [Sondos AbuYounis](https://sondosabuyounis.github.io/myFirstPortFolio/)
 
   @ sep 2023
 <br />
+<br />
 
-`__Folks__Hall`
+**`FolksHall`**
 * FolksHall is a fundraising events website. It has been designed to bring people together in a fun yet effective gatherings.
    <br />
    [**Folks**Hall](https://www.figma.com/file/8AKYCpG0KReHLUXcLV6Npu/EventTips-Inc.-Presentation?type=design&node-id=0%3A1&mode=design&t=vdlri67FsjsFLs1w-1)
