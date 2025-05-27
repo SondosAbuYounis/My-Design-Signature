@@ -11,7 +11,7 @@ This repo is dedicated to showcase my designs in web industry. You will find att
 * I humbly present my latest design and implementation of my Portfolio, welcome to my oasis  =D.
   <br /> 
  [Sondos AbuYounis - Live](https://sondosabuyounis.github.io/SondosPortFolio/)
-* Figma design: [PortFolio - Design](https://www.figma.com/design/AJq5NXp3ul8jGyRJq9w6Cq/portFolio%6025?node-id=0-1&t=bOTGJfmlyJOaUZXB-1)
+* Figma design: [PortFolio - Design](https://www.figma.com/design/AJq5NXp3ul8jGyRJq9w6Cq/portFolio%6025?node-id=202-87)
 
   @ may 2025
   <br />
