@@ -29,7 +29,7 @@ This repo is dedicated to showcase my designs in web industry. You will find att
 *  Book Cast is designed and developed by me and my team to provide an interactive platform for book enthusiasts to discover, discuss, and share their favorite books.
 <br />[Book Cast](https://www.figma.com/file/wtU6ZpBuHgqdXqydVIts8c/Book-Reading-Project?type=design&node-id=30%3A7&mode=design&t=xBaZZN6Vrtauy8kz-1)
 
-  @ oct 2023
+    @ oct 2023
   <br />
   <br />
   
